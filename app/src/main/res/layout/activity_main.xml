@@ -33,8 +33,7 @@
 		android:layout_height="wrap_content"
 		app:layout_constraintStart_toEndOf="@+id/icon_cost_of_service"
 		app:layout_constraintTop_toTopOf="parent"
-		android:hint="@string/cost_of_service"
-		android:layout_marginLeft="16dp">
+		android:hint="@string/cost_of_service">
 
 		<com.google.android.material.textfield.TextInputEditText
 			android:id="@+id/cost_of_service_edit_text"
